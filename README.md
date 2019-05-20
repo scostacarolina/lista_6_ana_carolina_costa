@@ -1,2 +1,2 @@
 # lista_6_ana_carolina_costa
-p
+pasta repositório para a lista 06
